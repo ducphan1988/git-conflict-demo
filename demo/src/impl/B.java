@@ -1,4 +1,4 @@
-package Impl;
+package impl;
 
 public class B {
 }
