@@ -48,6 +48,7 @@
       <option name="presentableId" value="Default" />
       <updated>1581573490492</updated>
       <workItem from="1581573493026" duration="245000" />
+      <workItem from="1581573848030" duration="251000" />
     </task>
     <task id="LOCAL-00001" summary="A : add class A">
       <created>1581573522681</created>
@@ -63,7 +64,14 @@
       <option name="project" value="LOCAL" />
       <updated>1581573646781</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="B : add class B">
+      <created>1581573900358</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1581573900358</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -74,7 +82,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -82,6 +92,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="A : add class A" />
-    <option name="LAST_COMMIT_MESSAGE" value="A : add class A" />
+    <MESSAGE value="B : add class B" />
+    <option name="LAST_COMMIT_MESSAGE" value="B : add class B" />
   </component>
 </project>
